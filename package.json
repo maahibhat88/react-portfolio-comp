@@ -1,0 +1,28 @@
+{
+  "name": "react-portfolio-comp",
+  "version": "1.0.0",
+  "description": "React Portfolio Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maahibhat88/react-portfolio-comp.git"
+  },
+  "keywords": [
+    "React",
+    "Portfolio",
+    "react",
+    "portfolio",
+    "react",
+    "portfolio",
+    "component"
+  ],
+  "author": "Muzaffar ahmad (Maahi bhat)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maahibhat88/react-portfolio-comp/issues"
+  },
+  "homepage": "https://github.com/maahibhat88/react-portfolio-comp#readme"
+}
